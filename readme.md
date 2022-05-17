@@ -19,7 +19,7 @@ As tecnologias utilizadas para desenvolver esse projeto foram:  HTML, CSS, JavaS
 ___
 ###  <div align="center">:computer:Prévia do projeto web.:computer:</div>
 
-[![Prévia do Projeto](assets-readme/preview-web.png)]
+![Prévia do Projeto](assets-readme/preview-web.png)]
 ___
 ###  <div align="center">:iphone:Prévia do projeto mobile.:iphone:</div>
 
