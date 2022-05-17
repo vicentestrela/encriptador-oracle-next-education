@@ -1,6 +1,6 @@
-# <div align="center">:lock: ENCRIPTADOR :old_key::unlock:</div>
+# <div align="center">:lock: VRed Encoder :old_key::unlock:</div>
  
-### <div align="center">:green_circle: Challenge 1 do Programa Oracle Next Education (ONE) :green_circle:</div>
+### <div align="center">:red_circle: Challenge 1 do Programa Oracle Next Education (ONE) :red_circle:</div>
 ___
 ___
 ### :black_nib: Descrição:
@@ -17,23 +17,14 @@ As tecnologias utilizadas para desenvolver esse projeto foram:  HTML, CSS, JavaS
 - `Vogal o: `Transforma em : ober
 - `Vogal u: `Transforma em : ufat
 ___
-###  <div align="center">:computer: A seguir apresento a prévia do projeto.:computer:</div>
+###  <div align="center">:computer:Prévia do projeto web.:computer:</div>
 
-[![Prévia do Projeto](assets-readme/preview-web.png)](https://github.com/euclides981/criptografia#readme)
+[![Prévia do Projeto](assets-readme/preview-web.png)]
 ___
-###  <div align="center">:iphone: Uma Prévia em dispositivos móveis.:iphone:</div>
+###  <div align="center">:iphone:Prévia do projeto mobile.:iphone:</div>
 
-[![Prévia do Projeto](assets-readme/preview-mobile.png)](https://github.com/euclides981/criptografia#readme)
+[![Prévia do Projeto](assets-readme/preview-mobile.png)]
 ___
-### <div align="center">:heavy_check_mark: Links Uteis</div>
-
-[<div align="center">![Release](https://shields.io/badge/Release-v0.1-green)](https://github.com/euclides981/criptografia/releases/tag/v0.1)
-[![Repositório](https://shields.io/badge/Repositório-Criptografia-yellow)](https://github.com/euclides981/criptografia)
-[![Perfil GitHub](https://shields.io/badge/Perfil-GitHub-blue)](https://github.com/euclides981/)
-[![Linkedin](https://shields.io/badge/Linkedin-Euclides-brown)](https://www.linkedin.com/in/euclides981/)
-[![Portifólio](https://shields.io/badge/Portifólio-Euclides-aqua)](https://euclides981.github.io)</div>
-___
-
 ### <div align="center">:star::star::star:</div> 
 
-### <div align="center">[![Estrelas](https://shields.io/badge/Estrelas-Veja%20quem%20já%20%20deu%20estrelas%20%20E%20Deixe%20a%20sua%20Também-red)](https://github.com/euclides981/criptografia/stargazers)</div>
+### <div align="center">[![Estrelas](https://shields.io/badge/Linkedin-Visite%20meu%20perfil%20clicando%20a%20aqui%20-blue)](https://linkedin.com/ln/vicentestrela)</div>
