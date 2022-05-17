@@ -27,4 +27,4 @@ ___
 ___
 ### <div align="center">:point_down::point_down::point_down:</div> 
 
-### <div align="center">[![Linkedin](https://shields.io/badge/Linkedin-Visite%20meu%20perfil%20clicando%20a%20aqui%20-blue)](https://linkedin.com/ln/vicentestrela)</div>
+### <div align="center">[![Linkedin](https://shields.io/badge/Linkedin-Visite%20meu%20perfil%20clicando%20a%20aqui%20-blue)](https://linkedin.com/in/vicentestrela)</div>

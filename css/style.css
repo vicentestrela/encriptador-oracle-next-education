@@ -56,12 +56,12 @@ body, textarea, button{
     color: white;
     padding: 10px 20px;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 10px;
     letter-spacing: 0.1rem;
     cursor: pointer;
     text-transform: uppercase;
     border-radius: 5px;  
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .bt:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
