@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body, textarea, button{
+    font-family: 'Share Tech Mono', monospace;
+    background: #e2e2e273;
+}
+#topbar {
+    display: grid;
+    padding: 0px;
+    grid-template-columns: 1fr 1fr 1fr;
+    background: #000000;
+    justify-items:center;
+    align-items: center;
+}
+#title {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+    user-select: none;
+    font-size: 1.5em;
+}
+#advice {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    user-select: none;
+    color: red;
+}
+
+#encboxes {
+    display: grid;
+    grid-template-columns:1fr 4fr 4fr 1fr;
+    text-align: center;
+}
+.encbox {
+    width: 90%;
+    margin-bottom: 30px;
+    resize: none;
+    color: black;
+    outline: none;
+    background-image: url("../img/boneco.svg");
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: 5px;
+}
+#buttons{
+    text-align: center;  
+}
+.bt { 
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 13px;
+    letter-spacing: 0.1rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;  
+    margin-bottom: 20px;
+}
+.bt:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#warn {
+    display: flex;
+    color: #000000;
+    grid-gap: 20px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+#warning {
+    display: flex;
+     align-items: center;
+     justify-content: center;
+}
+#title-b {
+    padding: 50px 0px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+#img-one {
+    display: flex;
+    padding: 20px 0px 50px;
+    justify-content:space-evenly;
+    align-items: center;
+    text-align: center;
+    
+}
+footer {
+    margin-bottom: 0;
+}
+#networks {
+    padding: 30px 0px 30px;
+    display: flex;
+    background: #000000;
+    justify-content: center;
+    grid-gap:10%;
+}
+.colorLink {
+    color: #ffffff;
+}
+@media screen and (max-width: 800px) {
+
+    #swap {
+        display: grid;
+    }
+    #warn {
+        order: 2;
+    }
+    #buttons {
+        order: 1;
+    }
+}

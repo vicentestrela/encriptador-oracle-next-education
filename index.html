@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="vicentestrela vredcode">
+    <title>VRED Encoder &nbsp;&nbsp;&nbsp;</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" media="screen and (max-width: 800px)" href="css/mobile.css">
+    <link rel="icon" type="image/x-icon" href="img/favicon.svg">
+    </head>
+    <body>
+        <main>
+            <header>
+                <div id="topbar">
+                    <a href="https://www.linkedin.com/company/vredcode" target="_blank">
+                        <picture>
+                            <source media="(max-width:800px )" srcset="assets/vr-logo.png">
+                            <img src="assets/vr-logo.png" alt="Alura" style="width: 105px; height: 105px; margin: 10px;">
+                        </picture>
+                    </a>
+                    <div><h2 id="title">VRed Encoder</h2></div>
+                    <a href="https://www.alura.com.br/oracle-next-education" target="_blank">
+                        <picture>
+                            <source media="(max-width:800px )" srcset="assets/one.png">
+                            <img src="assets/one.png" alt="Oracle Next Education" style="width: 120px; height: 50px;">
+                        </picture>
+                    </a>
+                </div>
+            </header>
+            <div id="advice">&nbsp;</div>
+            <div id="encboxes">
+                <div></div>
+                <div>
+                    <textarea class="encbox" rows="15" id="input" placeholder="Digite o texto que você quer criptografar" autofocus="true" required></textarea>
+                </div>
+                <div>
+                    <textarea class="encbox" rows="15" id="output" placeholder="Seu texto criptografado aparecerá aqui" disabled></textarea>
+                </div>
+                <div></div>
+            </div>
+            <div id="swap">
+                <div id="warn">
+                    <div id="warning">
+                        <p>&nbsp;Digite somente letras minúsculas e sem acento!</p>
+                    </div>
+                </div>
+                <div id="buttons">
+                    <button class="bt" id="encryp">criptografar</button>
+                    <button class="bt" id="decryp">descriptografar</button>
+                    <button class="bt" id="clean">limpar</button>
+                </div>
+            </div>
+            <hr>
+            <div id="title-b"><p>Challenge 1 (Front-End) - Oracle Next Education</p></div>
+            <div id="img-one">
+                <div><img src="./assets/alura-oracle.png" alt="logoOracle" style="width: 300px;"></div>
+            </div>
+            <footer>
+                <div id="networks"> 
+                    <a href="https://www.linkedin.com/in/vicentestrela" target="_blank"><i class="fa-brands fa-linkedin-in fa-2x colorLink"></i></a>
+                    <a href="https://github.com/vicentestrela" target="_blank"><i class="fa-brands fa-github fa-2x colorLink"></i></a>
+                    <a href="https://instagram.com/vicentestrela"><i class="fa-brands fa-instagram fa-2x colorLink"></i></a>
+                </div>
+            </footer>
+        </main>
+    </body>
+    <script src="https://kit.fontawesome.com/e801e4a6d3.js" crossorigin="anonymous"></script>
+    <script src="js/encrypt.js" defer></script>
+    <script src="js/decrypt.js" defer></script>
+    <script src="js/clean.js" defer></script>
+</html>

@@ -1,0 +1,42 @@
+#topbar {
+   padding: 12px;
+}
+#title {
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+#advice {
+    margin: 5px;
+}
+#encboxes {
+    display: block;
+}
+.encbox {
+    width: 90%;
+    max-height: 180px;
+    margin-bottom: 10px;
+}
+
+.bt { 
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+hr {
+    margin-top: 20px;
+}
+#warn {
+    margin-bottom: 0px;
+}
+#warning {
+    display: none;
+}
+#title-b {
+    padding: 20px;
+}
+#img-one {
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    color: #576867;
+    padding: 0px 0px 20px;
+}
